@@ -39,7 +39,7 @@ Wenpeng Xu+, **Hao Xu+**, Xiaoya Zhai\*, and Jingchao Jiang\*.
 Under Review
 
 [**ArXiv**](https://doi.org/10.36227/techrxiv.170326682.28990457/v1)
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
 </div>
 </div>
@@ -54,7 +54,7 @@ Wenpeng Xu, **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and Weiming Wang\*.
 Advances in Engineering Software, 2024.
 
 [**Paper**](https://doi.org/10.1016/j.advengsoft.2023.103544)
-[**Code**](https://github.com/haoxu99/Stress-based-continuous-planar-path-planning-for-additive-manufacturing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/haoxu99/Stress-based-continuous-planar-path-planning-for-additive-manufacturing) <strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 </div>
 </div>
@@ -70,7 +70,7 @@ Wenpeng Xu, Qiuge Li, **Hao Xu**, Xiaoya Zhai\*, and Jingchao Jiang\*.
 Journal of Manufacturing Processes, 2023.
 
 [**Paper**](https://doi.org/10.1016/j.jmapro.2023.10.044)
-[**Code**](https://github.com/haoxu99/Voxel-based-variable-width-continuous-spiral-path-planning-for-3D-printing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/haoxu99/Voxel-based-variable-width-continuous-spiral-path-planning-for-3D-printing) <strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 
 </div>
