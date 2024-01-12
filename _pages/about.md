@@ -31,23 +31,26 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2024</div><img src='images/WeaveX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Stress-based continuous planar path planning for additive manufacturing](https://doi.org/10.1016/j.advengsoft.2023.103544)
+***WeaveX: Nature-inspired non-planar strategies for extrusion additive manufacturing***
 
-Wenpeng Xu, **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and Weiming Wang\*
+Wenpeng Xu+, **Hao Xu+**, Xiaoya Zhai\*, and Jingchao Jiang\*
 
-[**Code**](https://github.com/haoxu99/Stress-based-continuous-planar-path-planning-for-additive-manufacturing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://doi.org/10.1016/j.advengsoft.2023.103544)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 \*Corresponding author
++these authors contributed equally to this work
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADES 2024</div><img src='images/Stress-based continuous planar path planning for additive manufacturing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Stress-based continuous planar path planning for additive manufacturing](https://doi.org/10.1016/j.advengsoft.2023.103544)
+***Stress-based continuous planar path planning for additive manufacturing***
 
 Wenpeng Xu, **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and Weiming Wang\*
 
+[**Paper**](https://doi.org/10.1016/j.advengsoft.2023.103544)
 [**Code**](https://github.com/haoxu99/Stress-based-continuous-planar-path-planning-for-additive-manufacturing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 \*Corresponding author
