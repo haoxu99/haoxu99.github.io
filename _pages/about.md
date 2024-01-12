@@ -40,17 +40,19 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADES 2024</div><img src='images/Stress-based continuous planar path planning for additive manufacturing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Stress-based continuous planar path planning for additive manufacturing](https://doi.org/10.1016/j.advengsoft.2023.103544)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Wenpeng Xu, **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and Weiming Wang\*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/haoxu99/Stress-based-continuous-planar-path-planning-for-additive-manufacturing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+\*Corresponding author
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing Processes 2023</div><img src='images/Voxel-based variable width continuous spiral path planning for 3D printing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
