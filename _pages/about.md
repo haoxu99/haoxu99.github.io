@@ -57,10 +57,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Voxel-based variable width continuous spiral path planning for 3D printing](https://doi.org/10.1016/j.jmapro.2023.10.044)
 
-Wenpeng Xu, Qiuge Li, **Hao Xu**, Xiaoya Zhai*, and Jingchao Jiang*
+Wenpeng Xu, Qiuge Li, **Hao Xu**, Xiaoya Zhai\*, and Jingchao Jiang\*
 
 [**Code**](https://github.com/haoxu99/Voxel-based-variable-width-continuous-spiral-path-planning-for-3D-printing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-*Corresponding author
+
+\*Corresponding author
 </div>
 </div>
 
