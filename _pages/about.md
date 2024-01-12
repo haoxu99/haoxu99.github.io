@@ -78,11 +78,11 @@ Journal of Manufacturing Processes, 2023.
 
 
 # 🎖 Honors and Awards
-- *2021.12* **Second Prize** of the 4th China Software Open Source Innovation Competition
-- *2021.07* Outstanding Graduates (Undergraduate)
-- *2021.06* **Provincial Second Prize** of the 13th Anniversary Elite League of the National 3D Competition
-- *2020.09* National Inspiration Scholarship (Undergraduate)
-- *2019.07* **Group Third Prize** at the Third 3D Printing and Modeling Competition in 2019 Belt \& Road and BRICS Skills Development \& Technology Innovation Competition
+- *2021.12*, **Second Prize** of the 4th China Software Open Source Innovation Competition
+- *2021.07*, Outstanding Graduates (Undergraduate)
+- *2021.06*, **Provincial Second Prize** of the 13th Anniversary Elite League of the National 3D Competition
+- *2020.09*, National Inspiration Scholarship (Undergraduate)
+- *2019.07*, **Group Third Prize** at the Third 3D Printing and Modeling Competition in 2019 Belt \& Road and BRICS Skills Development \& Technology Innovation Competition
 
 # 📖 Educations
 - *2021.09 - 2024.07 (now)*, Master, School of Computer Science Technology, Henan Polytechnic University, Jiaozuo. 
