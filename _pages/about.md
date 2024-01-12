@@ -59,7 +59,7 @@ Advances in Engineering Software, 2024.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing Processes 2023</div><img src='images/Voxel-based variable width continuous spiral path planning for 3D printing.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMEJMP 2023</div><img src='images/Voxel-based variable width continuous spiral path planning for 3D printing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***Voxel-based variable width continuous spiral path planning for 3D printing***
