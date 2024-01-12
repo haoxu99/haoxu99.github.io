@@ -33,7 +33,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 ***WeaveX: Nature-inspired non-planar strategies for extrusion additive manufacturing***
 
-Wenpeng Xu+, **Hao Xu+**, Xiaoya Zhai\*, and Jingchao Jiang\*
+Wenpeng Xu+, **Hao Xu+**, Xiaoya Zhai\*, and Jingchao Jiang\*.
+
 Under Review
 
 [**Paper**](https://doi.org/10.1016/j.advengsoft.2023.103544)
@@ -48,6 +49,7 @@ Under Review
 ***Stress-based continuous planar path planning for additive manufacturing***
 
 Wenpeng Xu, **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and Weiming Wang\*.
+
 Advances in Engineering Software, 2024.
 
 [**Paper**](https://doi.org/10.1016/j.advengsoft.2023.103544)
@@ -63,6 +65,7 @@ Advances in Engineering Software, 2024.
 ***Voxel-based variable width continuous spiral path planning for 3D printing***
 
 Wenpeng Xu, Qiuge Li, **Hao Xu**, Xiaoya Zhai\*, and Jingchao Jiang\*.
+
 Journal of Manufacturing Processes, 2023.
 
 [**Paper**](https://doi.org/10.1016/j.jmapro.2023.10.044)
