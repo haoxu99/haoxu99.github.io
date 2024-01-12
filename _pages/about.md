@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
+Hao Xu is currently a master's degree student at the School of Computer Science Technology, Henan Polytechnic University, under the supervision of Associate Prof. Wenpeng Xu. Before that, I received my bachelor's degree in 2021 from the School of 3D Printing, Xinxiang University.
+
+My research interest includes computer graphics, computer-aided design, and 3D printing. I have published more than two papers at the international journal with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>. 
 
 
 # 🔥 News
