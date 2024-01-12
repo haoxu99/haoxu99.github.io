@@ -19,7 +19,7 @@ redirect_from:
 
 Hao Xu is currently a master's degree student at the School of Computer Science Technology, Henan Polytechnic University, under the supervision of Associate Prof. Wenpeng Xu. Before that, I received my bachelor's degree in 2021 from the School of 3D Printing, Xinxiang University.
 
-My research interest includes computer graphics, computer-aided design, and 3D printing. I have published more than two papers at the international journal with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>. 
+My research interest includes computer graphics, computer-aided design, and 3D printing. I have published more than two papers at the international journal with total <a href='https://scholar.google.com/citations?user=7Ro6hCMAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>. 
 
 
 # 🔥 News
