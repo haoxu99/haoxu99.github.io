@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing Processes 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing Processes 2023</div><img src='images/Voxel-based variable width continuous spiral path planning for 3D printing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Voxel-based variable width continuous spiral path planning for 3D printing](https://doi.org/10.1016/j.jmapro.2023.10.044)
