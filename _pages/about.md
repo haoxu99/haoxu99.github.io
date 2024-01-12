@@ -29,7 +29,7 @@ My research interest includes computer graphics, computer-aided design, and 3D p
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2024</div><img src='images/WeaveX.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2024</div><img src='images/WeaveX.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***WeaveX: Nature-inspired non-planar strategies for extrusion additive manufacturing***
@@ -44,7 +44,7 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADES 2024</div><img src='images/Stress-based.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADES 2024</div><img src='images/Stress-based.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***Stress-based continuous planar path planning for additive manufacturing***
@@ -60,7 +60,7 @@ Advances in Engineering Software, 2024.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMEJMP 2023</div><img src='images/Voxel-based variable width continuous spiral path planning for 3D printing.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMEJMP 2023</div><img src='images/Voxel-based variable width continuous spiral path planning for 3D printing.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***Voxel-based variable width continuous spiral path planning for 3D printing***
