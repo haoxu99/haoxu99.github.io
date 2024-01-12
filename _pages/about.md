@@ -29,7 +29,7 @@ My research interest includes computer graphics, computer-aided design, and 3D p
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2024</div><img src='images/WeaveX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2024</div><img src='images/WeaveX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***WeaveX: Nature-inspired non-planar strategies for extrusion additive manufacturing***
@@ -44,7 +44,7 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADES 2024</div><img src='images/Stress-based continuous planar path planning for additive manufacturing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADES 2024</div><img src='images/Stress-based.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***Stress-based continuous planar path planning for additive manufacturing***
@@ -90,8 +90,4 @@ Journal of Manufacturing Processes, 2023.
 - *2021.09 - 2024.07 (now)*, Master, School of Computer Science Technology, Henan Polytechnic University, Jiaozuo. 
 - *2017.09 - 2021.07*, Undergraduate, School of 3D Printing, Xinxiang University, Xinxiang. 
 
-# 💬 Invited Talks
-
-
-# 💻 Internships
 
