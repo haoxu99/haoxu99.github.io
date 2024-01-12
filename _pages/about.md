@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hao Xu is currently a master's degree student at the School of Computer Science Technology, Henan Polytechnic University, under the supervision of Associate Prof. Wenpeng Xu. Before that, I received my bachelor's degree in 2021 from the School of 3D Printing, Xinxiang University.
+I am currently a master's degree student at the School of Computer Science Technology, Henan Polytechnic University, under the supervision of Associate Prof. [Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ). Before that, I received my bachelor's degree in 2021 from the School of 3D Printing, Xinxiang University.
 
 My research interest includes computer graphics, computer-aided design, and 3D printing. I have published more than two papers at the international journal with total <a href='https://scholar.google.com/citations?user=7Ro6hCMAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>. 
 
@@ -34,7 +34,7 @@ My research interest includes computer graphics, computer-aided design, and 3D p
 
 ***WeaveX: Nature-inspired non-planar strategies for extrusion additive manufacturing***
 
-Wenpeng Xu+, **Hao Xu+**, Xiaoya Zhai\*, and Jingchao Jiang\*.
+[Wenpeng Xu+](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu+**, [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568).
 
 Under Review
 
@@ -49,7 +49,7 @@ Under Review
 
 ***Stress-based continuous planar path planning for additive manufacturing***
 
-Wenpeng Xu, **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and Weiming Wang\*.
+[Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and [Weiming Wang\*](https://wmwang.weebly.com).
 
 Advances in Engineering Software, 2024.
 
@@ -65,7 +65,7 @@ Advances in Engineering Software, 2024.
 
 ***Voxel-based variable width continuous spiral path planning for 3D printing***
 
-Wenpeng Xu, Qiuge Li, **Hao Xu**, Xiaoya Zhai\*, and Jingchao Jiang\*.
+[Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Qiuge Li, **Hao Xu**, [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568).
 
 Journal of Manufacturing Processes, 2023.
 
