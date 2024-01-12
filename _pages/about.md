@@ -25,7 +25,7 @@ My research interest includes computer graphics, computer-aided design, and 3D p
 # 🔥 News
 
 - *2023.10.13*: &nbsp;Our paper ["Voxel-based variable width continuous spiral path planning for 3D printing."](https://doi.org/10.1016/j.jmapro.2023.10.044) has been accepted by [Journal of Manufacturing Processes.](https://www.sciencedirect.com/journal/journal-of-manufacturing-processes)
-- *2023.09.19*: &nbsp;Our paper ["Stress-based continuous planar path planning for additive manufacturing."](https://doi.org/10.1016/j.advengsoft.2023.103544)) has been accepted by [Advances in Engineering Software.](https://www.sciencedirect.com/journal/advances-in-engineering-software)
+- *2023.09.19*: &nbsp;Our paper ["Stress-based continuous planar path planning for additive manufacturing."](https://doi.org/10.1016/j.advengsoft.2023.103544) has been accepted by [Advances in Engineering Software.](https://www.sciencedirect.com/journal/advances-in-engineering-software)
 
 # 📝 Publications 
 
