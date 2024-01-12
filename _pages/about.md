@@ -52,7 +52,20 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Manufacturing Processes 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Voxel-based variable width continuous spiral path planning for 3D printing](https://doi.org/10.1016/j.jmapro.2023.10.044)
+
+Wenpeng Xu, Qiuge Li, **Hao Xu**, Xiaoya Zhai*, and Jingchao Jiang*
+
+[**Code**](https://github.com/haoxu99/Voxel-based-variable-width-continuous-spiral-path-planning-for-3D-printing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+*Corresponding author
+</div>
+</div>
+
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
