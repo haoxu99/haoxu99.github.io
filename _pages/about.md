@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Hao Xu's Homepage"
+excerpt: "Hao Xu"
 author_profile: true
 redirect_from: 
   - /about/
