@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hao Xu's Homepage"
-excerpt: "Hao Xu"
+excerpt: "Hao Xu, Xuhao, Xu Hao, 徐豪"
 author_profile: true
 redirect_from: 
   - /about/
