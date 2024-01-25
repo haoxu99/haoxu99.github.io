@@ -89,6 +89,12 @@ Journal of Manufacturing Processes, 2023.
 
 # 📖 Educations
 - *2021.09 - now*, Master, School of Computer Science Technology, Henan Polytechnic University, Jiaozuo. 
-- *2017.09 - 2021.07*, Undergraduate, School of 3D Printing, Xinxiang University, Xinxiang. 
+- *2017.09 - 2021.07*, Undergraduate, School of 3D Printing, Xinxiang University, Xinxiang.
+
+  
+# 💬 Invited Talks
+
+
+# 💻 Internships
 
 
