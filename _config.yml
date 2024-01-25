@@ -23,10 +23,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Xu (徐豪)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Henan Polytechnic University"
+  bio              : "haoxu5640@gmail.com"
   location         : "Jiaozuo, China"
   employer         : 
-  pubmed           : "haoxu5640@gmail.com"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "haoxu5640@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Hao-Xu-222" # e.g., "https://www.researchgate.net/profile/yourprofile"
