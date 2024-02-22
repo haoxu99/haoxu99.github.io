@@ -30,7 +30,7 @@ My research interest includes computer graphics, computer-aided design, and 3D p
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SA 2024</div><img src='images/WeaveX.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AM 2024</div><img src='images/WeaveX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***WeaveX: Nature-inspired non-planar strategies for extrusion additive manufacturing***
