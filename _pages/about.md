@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a master's degree student at the School of Computer Science Technology, Henan Polytechnic University, under the supervision of Associate Prof. [Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ). Before that, I received my bachelor's degree in 2021 from the School of 3D Printing, Xinxiang University.
 
-My research interest includes computer graphics, computer-aided design, and 3D printing. I have published more than two papers at the international journal with total <a href='https://scholar.google.com/citations?user=7Ro6hCMAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>. 
+My research interest includes computer graphics, computer-aided design, and Smart manufacturing. **Email:** haoxu5640@gmail.com. <!--I have published more than two papers at the international journal with total <a href='https://scholar.google.com/citations?user=7Ro6hCMAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.--> 
 
 
 # 🔥 News
@@ -80,6 +80,7 @@ Journal of Manufacturing Processes, 2023.
 
 
 # 🎖 Honors and Awards
+- *2024.06*, Outstanding Graduates (Master's Degree).
 - *2021.12*, **Second Prize** of the 4th China Software Open Source Innovation Competition.
 - *2021.07*, Outstanding Graduates (Undergraduate).
 - *2021.06*, **Provincial Second Prize** of the 13th Anniversary Elite League of the National 3D Competition.
