@@ -54,7 +54,7 @@ Under Review
 Advances in Engineering Software, 2024.
 
 [**Paper**](https://doi.org/10.1016/j.advengsoft.2023.103544)
-[**Code**](https://github.com/haoxu99/Stress-based-continuous-planar-path-planning-for-additive-manufacturing) <strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Code**](https://github.com/haoxu99/Stress-based-continuous-planar-path-planning-for-additive-manufacturing) <strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 </div>
 </div>
