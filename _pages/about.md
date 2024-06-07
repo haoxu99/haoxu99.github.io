@@ -88,7 +88,8 @@ Journal of Manufacturing Processes, 2023.
 - *2019.07*, **Group Third Prize** at the Third 3D Printing and Modeling Competition in 2019 Belt & Road and BRICS Skills Development & Technology Innovation Competition.
 
 # 📖 Educations
-- *2021.09 - now*, Master, School of Computer Science Technology, Henan Polytechnic University, Jiaozuo. 
+- *2024.09 - now*, Ph.D candidate, School of Computer Science and Technology, Shandong University, Qingdao. 
+- *2021.09 - 2024.06*, Master, School of Computer Science Technology, Henan Polytechnic University, Jiaozuo. 
 - *2017.09 - 2021.07*, Undergraduate, School of 3D Printing, Xinxiang University, Xinxiang.
 
   
