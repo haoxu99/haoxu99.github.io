@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Xu's Homepage"
-description              : "Master's degree student in the School of Computer Science Technology, Henan Polytechnic University. Focusing on computer graphics, computer-aided design and 3D printing."
+description              : "Ph.D candidate in the School of Computer Science and Technology, Shandong University. Focusing on computer graphics, computer-aided design and 3D printing."
 repository               : "haoxu99/haoxu99.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Xu (徐豪)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Henan Polytechnic University"
-  location         : "Jiaozuo, China"
+  bio              : "Shandong University"
+  location         : "Qingdao, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
