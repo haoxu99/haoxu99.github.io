@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master's degree student at the School of Computer Science Technology, Henan Polytechnic University, under the supervision of Associate Prof. [Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ). Before that, I received my bachelor's degree in 2021 from the School of 3D Printing, Xinxiang University.
+I am currently a Ph.D candidate at the School of Computer Science and Technology, Shandong University, under the supervision of Prof. [Haisen Zhao](https://haisenzhao.github.io). Before that, I received my master's degree in 2024 from the School of Computer Science Technology, Henan Polytechnic University, under the supervision of Associate Prof. [Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ).
 
 My research interest includes computer graphics, computer-aided design, and smart manufacturing. I have published<!--more than two--> some  papers at the international journal with total <a href='https://scholar.google.com/citations?user=7Ro6hCMAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a>. **Email:** haoxu5640@gmail.com
 
