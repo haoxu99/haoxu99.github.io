@@ -24,6 +24,7 @@ My research interest includes computer graphics, computer-aided design, and smar
 
 # 🔥 News
 
+- *2024.06.24*: &nbsp;Our paper "Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties" has been accepted by [Additive Manufacturing.](https://www.sciencedirect.com/journal/additive-manufacturing)
 - *2023.10.13*: &nbsp;Our paper ["Voxel-based variable width continuous spiral path planning for 3D printing"](https://doi.org/10.1016/j.jmapro.2023.10.044) has been accepted by [Journal of Manufacturing Processes.](https://www.sciencedirect.com/journal/journal-of-manufacturing-processes)
 - *2023.09.19*: &nbsp;Our paper ["Stress-based continuous planar path planning for additive manufacturing"](https://doi.org/10.1016/j.advengsoft.2023.103544) has been accepted by [Advances in Engineering Software.](https://www.sciencedirect.com/journal/advances-in-engineering-software)
 
