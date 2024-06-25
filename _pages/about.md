@@ -33,11 +33,11 @@ My research interest includes computer graphics, computer-aided design, and smar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AM 2024</div><img src='images/WeaveX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***WeaveX: Nature-inspired non-planar strategies for extrusion additive manufacturing***
+***Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties***
 
 [Wenpeng Xu+](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu+**, [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568). (+ joint first author)
 
-Under Review
+Additive Manufacturing, 2024.
 
 [**ArXiv**](https://doi.org/10.36227/techrxiv.170326682.28990457/v1)
 <strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:zYLM7Y9cAGgC'></span></strong>
