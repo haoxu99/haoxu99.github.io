@@ -35,7 +35,7 @@ My research interest includes computer graphics, computer-aided design, and smar
 
 ***Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties***
 
-[Wenpeng Xu+](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu+**, [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568). (+ joint first author)
+[Wenpeng Xu+](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu+**, [Xiaoya Zhai](https://xiaoyazhai.github.io/), and [Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568). (+ joint first author)
 
 Additive Manufacturing, 2024.
 
