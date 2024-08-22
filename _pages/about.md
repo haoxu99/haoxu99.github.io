@@ -37,7 +37,7 @@ My research interest includes computer graphics, computer-aided design, and smar
 
 [Wenpeng Xu+](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu+**, [Xiaoya Zhai](https://xiaoyazhai.github.io/), and [Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568). (+ joint first author)
 
-Additive Manufacturing (**IF: 10.3**), 2024.
+Additive Manufacturing, 2024.
 
 [**Paper**](https://doi.org/10.1016/j.addma.2024.104276)
 <strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:Tyk-4Ss8FVUC'></span></strong>
@@ -52,7 +52,7 @@ Additive Manufacturing (**IF: 10.3**), 2024.
 
 [Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and [Weiming Wang\*](https://wmwang.weebly.com).
 
-Advances in Engineering Software (**IF: 4.8**), 2024.
+Advances in Engineering Software, 2024.
 
 [**Paper**](https://doi.org/10.1016/j.advengsoft.2023.103544)
 [**Code**](https://github.com/haoxu99/Stress-based-continuous-planar-path-planning-for-additive-manufacturing) <strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:d1gkVwhDpl0C'></span></strong>
@@ -68,7 +68,7 @@ Advances in Engineering Software (**IF: 4.8**), 2024.
 
 [Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Qiuge Li, **Hao Xu**, [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568).
 
-Journal of Manufacturing Processes (**IF: 6.2**), 2023.
+Journal of Manufacturing Processes, 2023.
 
 [**Paper**](https://doi.org/10.1016/j.jmapro.2023.10.044)
 [**Code**](https://github.com/haoxu99/Voxel-based-variable-width-continuous-spiral-path-planning-for-3D-printing) <strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:u-x6o8ySG0sC'></span></strong>
