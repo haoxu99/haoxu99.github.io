@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D candidate at the School of Computer Science and Technology, Shandong University, under the supervision of Prof. [Haisen Zhao](https://haisenzhao.github.io). Before that, I received my master's degree in 2024 from the School of Computer Science Technology, Henan Polytechnic University, under the supervision of Associate Prof. [Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ).
 
-My research interest includes computer graphics, computer-aided design, and smart manufacturing.<!-- I have published<!--more than two--> some  papers at the international journal with total <a href='https://scholar.google.com/citations?user=7Ro6hCMAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a>.--> **Email:** haoxu5640@gmail.com
+My research interest includes computer graphics, computer-aided design, and smart manufacturing.<!-- I have published some  papers at the international journal with total <a href='https://scholar.google.com/citations?user=7Ro6hCMAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a>.--> **Email:** haoxu5640@gmail.com
 
 
 # 🔥 News
@@ -40,7 +40,7 @@ My research interest includes computer graphics, computer-aided design, and smar
 Additive Manufacturing, 2024.
 
 [**Paper**](https://doi.org/10.1016/j.addma.2024.104276)
-<strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+<!--<strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:Tyk-4Ss8FVUC'></span></strong>-->
 
 </div>
 </div>
@@ -55,7 +55,7 @@ Additive Manufacturing, 2024.
 Advances in Engineering Software, 2024.
 
 [**Paper**](https://doi.org/10.1016/j.advengsoft.2023.103544)
-[**Code**](https://github.com/haoxu99/Stress-based-continuous-planar-path-planning-for-additive-manufacturing) <strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Code**](https://github.com/haoxu99/Stress-based-continuous-planar-path-planning-for-additive-manufacturing) <!--<strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:d1gkVwhDpl0C'></span></strong>-->
 
 </div>
 </div>
@@ -71,7 +71,7 @@ Advances in Engineering Software, 2024.
 Journal of Manufacturing Processes, 2023.
 
 [**Paper**](https://doi.org/10.1016/j.jmapro.2023.10.044)
-[**Code**](https://github.com/haoxu99/Voxel-based-variable-width-continuous-spiral-path-planning-for-3D-printing) <strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Code**](https://github.com/haoxu99/Voxel-based-variable-width-continuous-spiral-path-planning-for-3D-printing) <!--<strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:u-x6o8ySG0sC'></span></strong>-->
 
 
 </div>
