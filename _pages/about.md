@@ -94,9 +94,9 @@ Journal of Manufacturing Processes, 2023.
 - *2017.09 - 2021.07*, Bachelor candidate, School of 3D Printing, Xinxiang University, Xinxiang.
 
   
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks -->
 
 
-# 💻 Internships
+<!-- # 💻 Internships -->
 
 
