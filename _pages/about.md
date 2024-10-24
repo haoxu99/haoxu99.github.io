@@ -37,7 +37,7 @@ My research interest includes computer graphics, computer-aided design, and addi
 
 ***INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures***
 
-[Wenpeng Xu+](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Mengyu Zhang, **Hao Xu+**, [Liuchao Jin\*](https://liuchao-jin.github.io/), [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang](https://engineering.exeter.ac.uk/staff/jj568).
+[Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Mengyu Zhang, **Hao Xu**, [Liuchao Jin\*](https://liuchao-jin.github.io/), [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang](https://engineering.exeter.ac.uk/staff/jj568).
 
 Under Review, 2024.
 
