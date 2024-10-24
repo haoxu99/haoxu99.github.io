@@ -32,6 +32,22 @@ My research interest includes computer graphics, computer-aided design, and addi
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPB 2024</div><img src='images/INPR-Connector.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures***
+
+[Wenpeng Xu+](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Mengyu Zhang, **Hao Xu+**, [Liuchao Jin\*](https://liuchao-jin.github.io/), [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang](https://engineering.exeter.ac.uk/staff/jj568).
+
+Under Review, 2024.
+
+<!-- [**Paper**](https://doi.org/10.1016/j.addma.2024.104276) -->
+<!--<strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:Tyk-4Ss8FVUC'></span></strong>-->
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AM 2024</div><img src='images/WeaveX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
