@@ -37,7 +37,7 @@ My research interest includes computer graphics, computer-aided design, and addi
 
 ***INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures***
 
-Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang.
+[Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Mengyu Zhang, **Hao Xu**, Menglin Yu, [Liuchao Jin\*](https://liuchao-jin.github.io/), [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang](https://engineering.exeter.ac.uk/staff/jj568).
 
 Under Review, 2024.
 
@@ -53,7 +53,9 @@ Under Review, 2024.
 
 ***Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties***
 
-Wenpeng Xu+, **Hao Xu+**, Xiaoya Zhai, and Jingchao Jiang\*. (+ joint first author)
+
+[Wenpeng Xu+](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu+**, [Xiaoya Zhai](https://xiaoyazhai.github.io/), and [Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568). (+ joint first author)
+
 
 Additive Manufacturing, 2024.
 
@@ -68,7 +70,8 @@ Additive Manufacturing, 2024.
 
 ***Stress-based continuous planar path planning for additive manufacturing***
 
-Wenpeng Xu, **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and Weiming Wang\*.
+[Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and [Weiming Wang\*](https://wmwang.weebly.com).
+
 
 Advances in Engineering Software, 2024.
 
@@ -84,7 +87,7 @@ Advances in Engineering Software, 2024.
 
 ***Voxel-based variable width continuous spiral path planning for 3D printing***
 
-Wenpeng Xu, Qiuge Li, **Hao Xu**, Xiaoya Zhai\*, and Jingchao Jiang\*.
+[Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu**, Qiuge Li, [Peng Zhang](https://scholar.google.com.hk/citations?user=cx70IfgAAAAJ), Li Yang, and [Weiming Wang\*](https://wmwang.weebly.com).
 
 Journal of Manufacturing Processes, 2023.
 
