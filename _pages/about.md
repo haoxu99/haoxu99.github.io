@@ -60,7 +60,7 @@ Under Review, 2024.
 Additive Manufacturing, 2024.
 
 [**Paper**](https://doi.org/10.1016/j.addma.2024.104276)
-<!--<strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:Tyk-4Ss8FVUC'></span></strong>-->
+[**Code**](https://github.com/haoxu99/Nature-inspired-interlaced-printing-strategies-for-additive-manufacturing) <!--<strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:Tyk-4Ss8FVUC'></span></strong>-->
 
 </div>
 </div>
@@ -87,7 +87,7 @@ Advances in Engineering Software, 2024.
 
 ***Voxel-based variable width continuous spiral path planning for 3D printing***
 
-[Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu**, Qiuge Li, [Peng Zhang](https://scholar.google.com.hk/citations?user=cx70IfgAAAAJ), Li Yang, and [Weiming Wang\*](https://wmwang.weebly.com).
+[Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Qiuge Li, **Hao Xu**, [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568).
 
 Journal of Manufacturing Processes, 2023.
 
