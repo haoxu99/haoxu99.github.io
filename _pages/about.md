@@ -39,9 +39,6 @@ Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, 
 
 Under Review, 2025.
 
-<!-- [**Paper**](https://doi.org/10.1016/j.addma.2024.104276) -->
-<!--<strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:Tyk-4Ss8FVUC'></span></strong>-->
-
 </div>
 </div>-->
 
