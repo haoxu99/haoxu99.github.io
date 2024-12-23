@@ -28,11 +28,11 @@ My research interest includes computer graphics, computer-aided design, and addi
 
 # 📝 Publications 
 
- **Upcoming**
+## Upcoming
 
 - Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang. (2024). **INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures**. *Composites Part B: Engineering.*
 
-**2024**
+## 2024
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCOMB 2024</div><img src='images/INPR-Connector.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,7 +76,7 @@ Advances in Engineering Software, 2024.
 </div>
 </div>
 
-**2023**
+## 2023
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMEJMP 2023</div><img src='images/Voxel-based variable width continuous spiral path planning for 3D printing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
