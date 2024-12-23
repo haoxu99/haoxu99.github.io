@@ -26,9 +26,7 @@ My research interest includes computer graphics, computer-aided design, and addi
 
 # 🔥 Upcoming
 
-- [Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Mengyu Zhang, **Hao Xu**, Menglin Yu, [Liuchao Jin\*](https://liuchao-jin.github.io/), [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang](https://engineering.exeter.ac.uk/staff/jj568). (2024). **INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures**. *Composites Part B: Engineering.* 
-
-- *2024.06.24*: &nbsp;Our paper ["Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties"](https://doi.org/10.1016/j.addma.2024.104276) has been accepted by [Additive Manufacturing.]
+- Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang. (2024). **INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures**. *Composites Part B: Engineering.* 
 
 # 📝 Publications 
 <!--
@@ -37,7 +35,7 @@ My research interest includes computer graphics, computer-aided design, and addi
 
 ***INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures***
 
-[Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Mengyu Zhang, **Hao Xu**, Menglin Yu, [Liuchao Jin\*](https://liuchao-jin.github.io/), [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang](https://engineering.exeter.ac.uk/staff/jj568).
+Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang.
 
 Under Review, 2025.
 
@@ -54,7 +52,7 @@ Under Review, 2025.
 ***Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties***
 
 
-[Wenpeng Xu+](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu+**, [Xiaoya Zhai](https://xiaoyazhai.github.io/), and [Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568). (+ joint first author)
+Wenpeng Xu+, **Hao Xu+**, Xiaoya Zhai, and Jingchao Jiang\*. (+ joint first author)
 
 
 Additive Manufacturing, 2024.
@@ -70,7 +68,7 @@ Additive Manufacturing, 2024.
 
 ***Stress-based continuous planar path planning for additive manufacturing***
 
-[Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and [Weiming Wang\*](https://wmwang.weebly.com).
+Wenpeng Xu, **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and Weiming Wang\*.
 
 
 Advances in Engineering Software, 2024.
@@ -87,7 +85,7 @@ Advances in Engineering Software, 2024.
 
 ***Voxel-based variable width continuous spiral path planning for 3D printing***
 
-[Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Qiuge Li, **Hao Xu**, [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568).
+Wenpeng Xu, Qiuge Li, **Hao Xu**, Xiaoya Zhai\*, and Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568).
 
 Journal of Manufacturing Processes, 2023.
 
