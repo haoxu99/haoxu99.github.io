@@ -30,7 +30,9 @@ My research interest includes computer graphics, computer-aided design, and addi
 
  **Upcoming**
 
-- Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang. (2024). **INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures**. *Composites Part B: Engineering.* 
+- Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang. (2024). **INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures**. *Composites Part B: Engineering.*
+
+**2024**
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCOMB 2024</div><img src='images/INPR-Connector.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,16 +46,12 @@ Under Review, 2025.
 </div>
 </div>-->
 
-**2024**
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AM 2024</div><img src='images/WeaveX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties***
 
-
 Wenpeng Xu+, **Hao Xu+**, Xiaoya Zhai, and Jingchao Jiang\*. (+ joint first author)
-
 
 Additive Manufacturing, 2024.
 
@@ -70,7 +68,6 @@ Additive Manufacturing, 2024.
 
 Wenpeng Xu, **Hao Xu**, Qiuge Li, Peng Zhang, Li Yang, and Weiming Wang\*.
 
-
 Advances in Engineering Software, 2024.
 
 [**Paper**](https://doi.org/10.1016/j.advengsoft.2023.103544)
@@ -79,11 +76,10 @@ Advances in Engineering Software, 2024.
 </div>
 </div>
 
+**2023**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMEJMP 2023</div><img src='images/Voxel-based variable width continuous spiral path planning for 3D printing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**2023**
 
 ***Voxel-based variable width continuous spiral path planning for 3D printing***
 
@@ -94,12 +90,8 @@ Journal of Manufacturing Processes, 2023.
 [**Paper**](https://doi.org/10.1016/j.jmapro.2023.10.044)
 [**Code**](https://github.com/haoxu99/Voxel-based-variable-width-continuous-spiral-path-planning-for-3D-printing) <!--<strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:u-x6o8ySG0sC'></span></strong>-->
 
-
 </div>
 </div>
-
-
-
 
 # 🎖 Honors and Awards
 - *2024.06*, Outstanding Graduates (Master's Degree).
