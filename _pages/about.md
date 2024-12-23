@@ -24,14 +24,14 @@ My research interest includes computer graphics, computer-aided design, and addi
 **Email:** haoxu5640@gmail.com
 
 
-# 🔥 News
+# 🔥 Upcoming
 
-- *2024.06.24*: &nbsp;Our paper ["Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties"](https://doi.org/10.1016/j.addma.2024.104276) has been accepted by [Additive Manufacturing.](https://www.sciencedirect.com/journal/additive-manufacturing)
-- *2023.10.13*: &nbsp;Our paper ["Voxel-based variable width continuous spiral path planning for 3D printing"](https://doi.org/10.1016/j.jmapro.2023.10.044) has been accepted by [Journal of Manufacturing Processes.](https://www.sciencedirect.com/journal/journal-of-manufacturing-processes)
-- *2023.09.19*: &nbsp;Our paper ["Stress-based continuous planar path planning for additive manufacturing"](https://doi.org/10.1016/j.advengsoft.2023.103544) has been accepted by [Advances in Engineering Software.](https://www.sciencedirect.com/journal/advances-in-engineering-software)
+- [Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Mengyu Zhang, **Hao Xu**, Menglin Yu, [Liuchao Jin\*](https://liuchao-jin.github.io/), [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang](https://engineering.exeter.ac.uk/staff/jj568). (2024). **INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures**. *Composites Part B: Engineering.* 
+
+- *2024.06.24*: &nbsp;Our paper ["Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties"](https://doi.org/10.1016/j.addma.2024.104276) has been accepted by [Additive Manufacturing.]
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCOMB 2024</div><img src='images/INPR-Connector.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,14 +39,14 @@ My research interest includes computer graphics, computer-aided design, and addi
 
 [Wenpeng Xu](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ), Mengyu Zhang, **Hao Xu**, Menglin Yu, [Liuchao Jin\*](https://liuchao-jin.github.io/), [Xiaoya Zhai\*](https://xiaoyazhai.github.io/), and [Jingchao Jiang](https://engineering.exeter.ac.uk/staff/jj568).
 
-Under Review, 2024.
+Under Review, 2025.
 
 <!-- [**Paper**](https://doi.org/10.1016/j.addma.2024.104276) -->
 <!--<strong><span class='show_paper_citations' data='7Ro6hCMAAAAJ:Tyk-4Ss8FVUC'></span></strong>-->
 
 </div>
 </div>
-
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AM 2024</div><img src='images/WeaveX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
