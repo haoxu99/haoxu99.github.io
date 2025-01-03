@@ -30,11 +30,8 @@ My research interest includes computer graphics, computer-aided design, and addi
 
 ## Upcoming
 
-- Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang. (2024). **INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures**. *Composites Part B: Engineering.*
-
-## 2024
-
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCOMB 2024</div><img src='images/INPR-Connector.png' alt="sym" width="100%"></div></div>
+<!-- - Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang. (2024). **INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures**. *Composites Part B: Engineering.*-->
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCOMB 2024</div><img src='images/INPR-Connector.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures***
@@ -44,7 +41,9 @@ Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, 
 Under Review, 2025.
 
 </div>
-</div>-->
+</div>
+
+## 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AM 2024</div><img src='images/WeaveX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,7 +82,7 @@ Advances in Engineering Software, 2024.
 
 ***Voxel-based variable width continuous spiral path planning for 3D printing***
 
-Wenpeng Xu, Qiuge Li, **Hao Xu**, Xiaoya Zhai\*, and Jingchao Jiang\*](https://engineering.exeter.ac.uk/staff/jj568).
+Wenpeng Xu, Qiuge Li, **Hao Xu**, Xiaoya Zhai\*, and Jingchao Jiang\*.
 
 Journal of Manufacturing Processes, 2023.
 
