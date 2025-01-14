@@ -30,8 +30,19 @@ My research interest includes computer graphics, computer-aided design, and smar
 
 ## Upcoming
 
-<!-- - Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang. (2024). **INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures**. *Composites Part B: Engineering.*-->
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCOMB 2024</div><img src='images/INPR-Connector.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMEJMP 2025</div><img src='images/M3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***Stress-Guided Lightweight Design and Optimization for 3D Printing Sacrificial Molds***
+
+Wenpeng Xu, Ning Zhang, **Hao Xu\* (Corresponding author)**, Liuchao Jin\*, and Jingchao Jiang.
+
+Under Review, 2025.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCOMB 2024</div><img src='images/INPR-Connector.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures***
