@@ -42,6 +42,8 @@ Under Review, 2025.
 </div>
 </div>
 
+## 2025
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCOMB 2025</div><img src='images/INPR-Connector.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,7 +51,7 @@ Under Review, 2025.
 
 Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang.
 
-Under Review, 2025.
+Composites Part B, 2025.
 
 </div>
 </div>
