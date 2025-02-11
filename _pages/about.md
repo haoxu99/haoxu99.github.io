@@ -51,7 +51,7 @@ Under Review, 2025.
 
 Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang.
 
-Composites Part B, 2025.
+Composites Part B: Engineering, 2025.
 
 </div>
 </div>
