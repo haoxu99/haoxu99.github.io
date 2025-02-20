@@ -53,6 +53,8 @@ Wenpeng Xu, Mengyu Zhang, **Hao Xu**, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, 
 
 Composites Part B: Engineering, 2025.
 
+[**Paper**](https://doi.org/10.1016/j.compositesb.2025.112243)
+
 </div>
 </div>
 
