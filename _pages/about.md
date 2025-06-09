@@ -39,6 +39,8 @@ Wenpeng Xu, Ning Zhang, **Hao Xu\* (Corresponding author)**, Liuchao Jin\*, and 
 
 Materials & Design, 2025.
 
+[**Paper**](https://doi.org/10.1016/j.matdes.2025.114161)
+
 </div>
 </div>
 
