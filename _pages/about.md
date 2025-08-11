@@ -33,7 +33,7 @@ My research interest includes computer graphics, computer-aided design, and smar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GM 2025</div><img src='images/pack2d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***Carvable packing of revolved 3D objects for subtractive manufacturing***
+<strong><span style="color:purple;">Carvable packing of revolved 3D objects for subtractive manufacturing</span></strong>
 
 Chengdong Wei, Shuai Feng, **Hao Xu**, Qidong Zhang, Songyang Zhang, Zhongzhen Li, Changhe Tu, Haisen Zhao\*.
 
