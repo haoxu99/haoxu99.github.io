@@ -33,7 +33,7 @@ My research interest includes computer graphics, computer-aided design, and smar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GM 2025</div><img src='images/pack2d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong><span style="color:#8A2BE2;">Carvable packing of revolved 3D objects for subtractive manufacturing</span></strong>
+<strong><span style="color:#6a5acd;">Carvable packing of revolved 3D objects for subtractive manufacturing</span></strong>
 
 Chengdong Wei, Shuai Feng, <strong>Hao Xu</strong>, Qidong Zhang, Songyang Zhang, Zhongzhen Li, Changhe Tu, Haisen Zhao\*.
 
@@ -48,7 +48,7 @@ Graphical Models, 2025.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMADE 2025</div><img src='images/M3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong><span style="color:#8A2BE2;">Stress-Guided Lightweight Design and Optimization for 3D Printing Sacrificial Molds</span></strong>
+<strong><span style="color:#6a5acd;">Stress-Guided Lightweight Design and Optimization for 3D Printing Sacrificial Molds</span></strong>
 
 Wenpeng Xu, Ning Zhang, <strong>Hao Xu\* (Corresponding author)</strong>, Liuchao Jin\*, and Jingchao Jiang.
 
@@ -63,7 +63,7 @@ Materials & Design, 2025.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCOMB 2025</div><img src='images/INPR-Connector.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong><span style="color:#8A2BE2;">INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures</span></strong>
+<strong><span style="color:#6a5acd;">INPR-Connector: Interlocking Negative Poisson’s Ratio Connectors Design for Deployable Energy Absorption Structures</span></strong>
 
 Wenpeng Xu, Mengyu Zhang, <strong>Hao Xu</strong>, Menglin Yu, Liuchao Jin\*, Xiaoya Zhai\*, and Jingchao Jiang.
 
@@ -79,7 +79,7 @@ Composites Part B: Engineering, 2025.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AM 2024</div><img src='images/WeaveX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong><span style="color:#8A2BE2;">Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties</span></strong>
+<strong><span style="color:#6a5acd;">Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties</span></strong>
 
 Wenpeng Xu+, <strong>Hao Xu</strong>, Xiaoya Zhai, and Jingchao Jiang\*. (+ joint first author)
 
@@ -94,7 +94,7 @@ Additive Manufacturing, 2024.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADES 2024</div><img src='images/Stress-based.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong><span style="color:#8A2BE2;">Stress-based continuous planar path planning for additive manufacturing</span></strong>
+<strong><span style="color:#6a5acd;">Stress-based continuous planar path planning for additive manufacturing</span></strong>
 
 Wenpeng Xu, <strong>Hao Xu</strong>, Qiuge Li, Peng Zhang, Li Yang, and Weiming Wang\*.
 
@@ -111,7 +111,7 @@ Advances in Engineering Software, 2024.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMEJMP 2023</div><img src='images/Voxel-based variable width continuous spiral path planning for 3D printing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong><span style="color:#8A2BE2;">Voxel-based variable width continuous spiral path planning for 3D printing</span></strong>
+<strong><span style="color:#6a5acd;">Voxel-based variable width continuous spiral path planning for 3D printing</span></strong>
 
 Wenpeng Xu, Qiuge Li, <strong>Hao Xu</strong>, Xiaoya Zhai\*, and Jingchao Jiang\*.
 
