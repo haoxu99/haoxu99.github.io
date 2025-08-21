@@ -49,7 +49,7 @@ Conditionally accepted by SIGGRAPH Asia 2025 (journal track).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GM 2025</div><img src='images/pack2d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong><span style="color:#6a5acd;">Carvable packing of revolved 3D objects for subtractive manufacturing</span></strong>
+<strong><span style="color:#6a5acd;">Carvable Packing of Revolved 3D Objects for Subtractive Manufacturing</span></strong>
 
 Chengdong Wei, Shuai Feng, <strong>Hao Xu</strong>, Qidong Zhang, Songyang Zhang, Zhongzhen Li, Changhe Tu, Haisen Zhao\*.
 
