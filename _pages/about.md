@@ -97,7 +97,7 @@ Composites Part B: Engineering, 2025.
 
 <strong><span style="color:#6a5acd;">Nature-inspired interlaced printing strategies for additive manufacturing highly improved mechanical properties</span></strong>
 
-Wenpeng Xu+, <strong>Hao Xu</strong>, Xiaoya Zhai, and Jingchao Jiang\*. (+ joint first author)
+Wenpeng Xu+, <strong>Hao Xu+</strong>, Xiaoya Zhai, and Jingchao Jiang\*. (+ joint first author)
 
 Additive Manufacturing, 2024.
 
