@@ -30,6 +30,22 @@ My research interest includes computer graphics, computer-aided design, and smar
 
 ## 2025
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGA 2025</div><img src='images/pack3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong><span style="color:#6a5acd;">Chapper: Carvable Hull-and-Pack for Subtractive Manufacturing</span></strong>
+
+Zhenmin Zhang, Shuai Feng, <strong>Hao Xu</strong>, Lujiaoyang Fu, Lin Lu, Jianwei Guo, Haisen Zhao\*.
+
+Conditionally accepted by SIGGRAPH Asia 2025 (journal track).
+
+[**Paper**]
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GM 2025</div><img src='images/pack2d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
