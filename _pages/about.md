@@ -39,7 +39,7 @@ Zhenmin Zhang, Shuai Feng, <strong>Hao Xu</strong>, Lujiaoyang Fu, Lin Lu, Jianw
 
 Conditionally accepted by SIGGRAPH Asia 2025 (journal track).
 
-[**Paper**]
+[**Project**](https://zmzhang0.github.io/projects/Chapper/index.html)
 
 </div>
 </div>
