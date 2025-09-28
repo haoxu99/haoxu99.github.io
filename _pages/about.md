@@ -140,6 +140,7 @@ Journal of Manufacturing Processes, 2023.
 </div>
 
 # 🎖 Honors and Awards
+- *2025.09*, Excellent Master's Thesis of Henan Province.
 - *2024.06*, Outstanding Graduates (Master's Degree).
 - *2021.12*, **Second Prize** of the 4th China Software Open Source Innovation Competition.
 - *2021.07*, Outstanding Graduates (Undergraduate).
