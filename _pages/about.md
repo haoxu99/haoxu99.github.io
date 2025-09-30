@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D candidate at the School of Computer Science and Technology, Shandong University, under the supervision of Prof. [Haisen Zhao (赵海森)](https://haisenzhao.github.io). Before that, I received my master's degree in 2024 from the School of Computer Science Technology, Henan Polytechnic University, under the supervision of Associate Prof. [Wenpeng Xu (徐文鹏)](https://scholar.google.com.hk/citations?user=US-ByzsAAAAJ).
 
-My research interest includes computer graphics, computer-aided design, and smart manufacturing.<!-- I have published some  papers at the international journal with total <a href='https://scholar.google.com/citations?user=7Ro6hCMAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a>.--> 
+My research interest includes computer graphics, digital manufacturing, and structure optimization.<!-- I have published some  papers at the international journal with total <a href='https://scholar.google.com/citations?user=7Ro6hCMAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a>.--> 
 
 **Email:** haoxu5640@gmail.com
 
