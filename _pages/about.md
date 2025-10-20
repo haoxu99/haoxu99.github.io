@@ -148,10 +148,11 @@ Journal of Manufacturing Processes, 2023.
 - *2020.09*, National Inspiration Scholarship (Undergraduate).
 - *2019.07*, **Group Third Prize** at the Third 3D Printing and Modeling Competition in 2019 Belt & Road and BRICS Skills Development & Technology Innovation Competition.
 
-# 📖 Educations
-- *2024.09 - now*, Ph.D candidate, School of Computer Science and Technology, Shandong University, Qingdao. 
-- *2021.09 - 2024.06*, Master candidate, School of Computer Science Technology, Henan Polytechnic University, Jiaozuo. 
-- *2017.09 - 2021.07*, Bachelor candidate, School of 3D Printing, Xinxiang University, Xinxiang.
+# 📖 Experience
+- *2025.09 - now*, Research intern, Massachusetts Institute of Technology (MIT). 
+- *2024.09 - now*, Ph.D candidate, School of Computer Science and Technology, Shandong University (SDU).  
+- *2021.09 - 2024.06*, Master candidate, School of Computer Science Technology, Henan Polytechnic University (HPU). 
+- *2017.09 - 2021.07*, Bachelor candidate, School of 3D Printing, Xinxiang University (XXU).
 
   
 <!-- # 💬 Invited Talks -->
