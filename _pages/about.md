@@ -37,7 +37,7 @@ My research interest includes computer graphics, digital manufacturing, and stru
 
 Zhenmin Zhang, Shuai Feng, <strong>Hao Xu</strong>, Lujiaoyang Fu, Lin Lu, Jianwei Guo, Haisen Zhao\*.
 
-Conditionally accepted by SIGGRAPH Asia 2025 (journal track).
+ACM SIGGRAPH Asia 2025 (journal track).
 
 [**Project**](https://zmzhang0.github.io/projects/Chapper/index.html)
 
