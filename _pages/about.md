@@ -149,7 +149,7 @@ Journal of Manufacturing Processes, 2023.
 - *2019.07*, **Group Third Prize** at the Third 3D Printing and Modeling Competition in 2019 Belt & Road and BRICS Skills Development & Technology Innovation Competition.
 
 # 📖 Experience
-- *2025.09 - now*, Research intern, Massachusetts Institute of Technology (MIT). 
+- *2025.09 - 2026.05*, Remote research intern, Massachusetts Institute of Technology (MIT). 
 - *2024.09 - now*, Ph.D candidate, School of Computer Science and Technology, Shandong University (SDU).  
 - *2021.09 - 2024.06*, Master candidate, School of Computer Science Technology, Henan Polytechnic University (HPU). 
 - *2017.09 - 2021.07*, Bachelor candidate, School of 3D Printing, Xinxiang University (XXU).
