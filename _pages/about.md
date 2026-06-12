@@ -28,6 +28,23 @@ My research interest includes computer graphics, digital manufacturing, and stru
 
 # 📝 Publications 
 
+## 2026
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWS 2026</div><img src='images/REDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong><span style="color:#6a5acd;">Enhanced energy absorption in re-entrant honeycombs via elliptical double-arrow hybrid design</span></strong>
+
+Wenpeng Xu, Dongxia Wang, Jinglong Zhang, Jiahe Hu, <strong>Hao Xu</strong>, Liuchao Jin, Haitao Ye, Haisen Zhao, Wei-Hsin Liao\*.
+
+Thin-Walled Structures, 2026.
+
+[**Paper**](https://doi.org/10.1016/j.tws.2026.115252)
+
+</div>
+</div>
+
+
 ## 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGA 2025</div><img src='images/pack3d.png' alt="sym" width="100%"></div></div>
