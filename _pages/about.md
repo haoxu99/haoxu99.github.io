@@ -29,6 +29,20 @@ My research interest includes computer graphics, digital manufacturing, and stru
 # 📝 Publications 
 
 ## 2026
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADES 2026</div><img src='images/Peng1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong><span style="color:#6a5acd;">A design-to-manufacturing framework for anisotropic triangular porous structures guided by stress-orientation</span></strong>
+
+Peng Zhang, Yanan Sun, <strong>Hao Xu</strong>, Yi Liu, Wei Zeng, Yi-Jun Yang\*, Xiaoya Zhai, and Weiming Wang.
+
+Advance in Engineering Software, 2026.
+
+[**Paper**](https://doi.org/10.1016/j.advengsoft.2026.104238)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWS 2026</div><img src='images/REDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
