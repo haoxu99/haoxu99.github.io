@@ -36,6 +36,7 @@ My research interest includes computer graphics, digital manufacturing, and stru
 <strong><span style="color:#6a5acd;">AlphaPrint: Learning Toward Time-Optimal Toolpath Sequencing</span></strong>
 
 Yang Wang, <strong>Hao Xu</strong>, Shuo Wang, Lujiaoyang Fu, Pengjie Ge, Peng-Shuai Wang, Pengfei Wang, Changhe Tu, Manyi Li, Haisen Zhao\*.
+
 Pacific Graphics 2026, Conference Track.
 
 </div>
