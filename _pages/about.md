@@ -29,6 +29,18 @@ My research interest includes computer graphics, digital manufacturing, and stru
 # 📝 Publications 
 
 ## 2026
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PG 2026</div><img src='images/alphaprint.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong><span style="color:#6a5acd;">AlphaPrint: Learning Toward Time-Optimal Toolpath Sequencing</span></strong>
+
+Yang Wang, <strong>Hao Xu</strong>, Shuo Wang, Lujiaoyang Fu, Pengjie Ge, Peng-Shuai Wang, Pengfei Wang, Changhe Tu, Manyi Li, Haisen Zhao\*.
+Pacific Graphics 2026, Conference Track.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADES 2026</div><img src='images/peng1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
