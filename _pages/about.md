@@ -30,6 +30,31 @@ My research interest includes computer graphics, digital manufacturing, and stru
 
 ## 2026
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2026</div><img src='images/infuse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong><span style="color:#6a5acd;">InFuse: Sequence Planning for In-Situ Printing and Material Injection</span></strong>
+
+<strong>Hao Xu</strong>, Shuai Feng, Yi Xiong, Qiong Zeng, Manyi Li, Liang He, Wenpeng Xu, and Haisen Zhao\*.
+
+IEEE Transactions on Visualization and Computer Graphics, 2026.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMEJMP 2026</div><img src='images/mmam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong><span style="color:#6a5acd;">Reinforcement of Heterogeneous Interlayer Interfaces via Printing Strategies in Multimaterial Fused Filament Fabrication</span></strong>
+
+Wenpeng Xu, Jiahe Hu, J. Jiang, Mengyu Zhang, <strong>Hao Xu\* (Corresponding author)</strong>, Hongyao Shen\*.
+
+Journal of Manufacturing Processes, 2026.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PG 2026</div><img src='images/alphaprint.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
