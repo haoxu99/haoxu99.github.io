@@ -39,6 +39,8 @@ My research interest includes computer graphics, digital manufacturing, and stru
 
 IEEE Transactions on Visualization and Computer Graphics, 2026.
 
+[**Project**](https://haoxu99.github.io/projects/InFuse/index.html)
+
 </div>
 </div>
 
