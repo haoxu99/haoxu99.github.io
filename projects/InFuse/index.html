@@ -343,9 +343,9 @@
             </div>
             <p style="text-align: justify;">
                 
-                Fig. 1. verview of the proposed in-situ material injection and printing hybrid manufacturing framework. (a) Target model, where the red markers indicate
+                Fig. 1. Overview of the proposed in-situ material injection and printing hybrid manufacturing framework. (a) Target model, where the red markers indicate
                 injection locations automatically identified by the proposed algorithm. (b–d) In-situ material injection hybrid manufacturing process, which alternates
-                between a printing step 𝑃𝑖 and a subsequent injection step 𝐼𝑖 . Through this iterative print–inject sequence, internal cavities are progressively filled and
+                between a printing step 𝑃_𝑖 and a subsequent injection step 𝐼_𝑖 . Through this iterative print–inject sequence, internal cavities are progressively filled and
                 automatically sealed during fabrication, effectively preventing air entrapment and enabling fully automated manufacturing. (e) Final fabricated result and the
                 customized in-situ printing–injection hybrid manufacturing platform used in our experiments.
             </p>
@@ -415,41 +415,45 @@ These results demonstrate that air-evacuation-aware geometric reasoning enables 
                 <img src="./files/results.png" alt="" style="max-width:60%; height:auto;">
             </div>
             <p style="text-align: justify;">
-                Fig. 3. Gallery of results generated using InFuse. The displayed models include Bunny-topo, Kitten, Julia vase, Kitten-topo, Bunny, Hand, Pipe, Coral, and Tree. For topology-optimized examples, the yellow arrows indicate the boundary conditions, while the dark blue regions denote the internal cavities shown through the transparent shell. The injection nozzle is also shown.
-From left to right, the images represent different stages of the manufacturing process. 
-These examples demonstrate that InFuse can generate feasible air-evacuation-aware sequences for diverse geometries, including compact models, multi-cavity models with functional structures, and models requiring a large number of injection points.
+                Gallery of results generated using InFuse.
+                From topology-optimized parts to intricate branching structures, InFuse plans when to print and when to inject while keeping air-escape paths open.
+                These sequences span nine diverse geometries, showing how the same planning framework adapts to different cavity layouts and geometric complexities.
             </p>
             <br><br>
             <div style="text-align:center;">
                 <img src="./files/physical-evaluation.png" alt="" style="max-width:60%; height:auto;">
             </div>
             <p style="text-align: justify;">
-                Fig. 4. Physical fabrication performance.
-(a) Physical fabrication results of the Bunny and Pipe models produced using InFuse, including magnified structural details and minor fabrication-related imperfections. The annotations indicate the solid-filled regions produced by 3DP, residual internal voids caused by deviations between the computed and actual injected volumes, and the injected material, respectively. 
-(b) A comparison of total fabrication time for the same models, showing the significant time savings achieved by InFuse over traditional 3DP solid-infill methods.
+                Physical fabrication performance.
+                The Bunny and Pipe prototypes validate the planned sequences on a modified desktop 3D printer, without manual sealing or auxiliary flow channels.
+                Replacing time-consuming printed solid infill with material injection reduces total fabrication time by up to 70% compared with conventional 3D printing with solid infill.
             </p>
             <br><br>
             <div style="text-align:center;">
                 <img src="./files/anisotropy-evaluation.png" alt="" style="max-width:60%; height:auto;">
             </div>
             <p style="text-align: justify;">
-                Fig. 5. Anisotropy evaluation. (a) Printing path patterns under different build orientations for InFuse and conventional 3DP solid infill.
-(b) Representative force–strain curves obtained from tensile testing under different orientations.
-(c) Photographs of the tensile testing setup and the corresponding fracture surfaces, illustrating the failure modes of 3DP and InFuse specimens.
+                Anisotropy evaluation.
+                In tensile tests across three build orientations, the strength drop from the strongest to the weakest orientation falls from about 51% for fully 3D-printed specimens to 11.4% for InFuse specimens.
+                Fracture surfaces also reveal lower porosity in the injected infill, providing further evidence of improved material uniformity.
             </p>
             <br><br>
             <div style="text-align:center;">
                 <img src="./files/soft.png" alt="" style="max-width:60%; height:auto;">
             </div>
             <p style="text-align: justify;">
-               Fig. 6. Pneumatic soft actuator fabricated using InFuse. (a) The actuator structure. (b) Final actuator obtained after dissolving the sacrificial PVA mold. (c) When air is injected into the right chamber, the actuator bends to the left. (d) Conversely, injecting air into the left chamber causes the actuator to bend to the right.
+                Pneumatic soft actuator fabricated using InFuse.
+                Combining a water-soluble PVA mold with injected silicone produces a flexible actuator with functional internal chambers.
+                After the mold dissolves, selectively inflating the chambers bends the actuator left or right, demonstrating bidirectional pneumatic actuation.
             </p>
             <br><br>
             <div style="text-align:center;">
                 <img src="./files/mold.png" alt="" style="max-width:60%; height:auto;">
             </div>
             <p style="text-align: justify;">
-                Fig. 7. Demonstration of sacrificial mold manufacturing using InFuse. (a) Multiple models arranged using a packing algorithm for compact layout. (b) Fabricated PVA mold with injection cavities already filled with injected material. (c) Mold after partial dissolution in water. (d) Extracted internal models following complete mold removal.
+                Demonstration of sacrificial mold manufacturing using InFuse.
+                InFuse fills separate cavities as the sacrificial PVA mold is printed, removing the need to reserve auxiliary flow channels between parts.
+                This enables tighter packing and reduces mold material use; dissolving the mold in water releases the finished cast objects.
             </p>
             <br>
             <br>
@@ -457,7 +461,9 @@ These examples demonstrate that InFuse can generate feasible air-evacuation-awar
                 <img src="./files/tree-model.png" alt="" style="max-width:60%; height:auto;">
             </div>
             <p style="text-align: justify;">
-                Fig. 8. Demonstration of the artistic fabrication. (a) and (c) The final manufactured InFuse and Tree models achieve seamless surfaces. (b) and (d) The injected material displays a fluorescent effect.
+                Demonstration of the artistic fabrication.
+                InFuse combines printed shells with fluorescent infill to create sealed artistic objects without auxiliary channels.
+                The branching Tree example coordinates 35 injection points, demonstrating repeated printing and injection while preserving air evacuation through a complex structure.
             </p>
             <br>
         </section>
