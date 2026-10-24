@@ -53,6 +53,8 @@ Wenpeng Xu, Jiahe Hu, J. Jiang, Mengyu Zhang, <strong>Hao Xu\* (Corresponding au
 
 Journal of Manufacturing Processes, 2026.
 
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S1526612526009825?via%3Dihub)
+
 </div>
 </div>
 
