@@ -68,6 +68,8 @@ Yang Wang, <strong>Hao Xu</strong>, Shuo Wang, Lujiaoyang Fu, Pengjie Ge, Peng-S
 
 Pacific Graphics 2026, Conference Track.
 
+[**Paper**](https://diglib.eg.org/items/91ac9535-0ab7-4776-bb6f-1e09cf32b958)
+
 </div>
 </div>
 
