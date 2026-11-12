@@ -40,6 +40,7 @@ My research interest includes computer graphics, digital manufacturing, and stru
 IEEE Transactions on Visualization and Computer Graphics, 2026.
 
 [**Project**](https://haoxu99.github.io/projects/InFuse/index.html)
+<a href="https://www.replicabilitystamp.org/#https-github-com-haoxu99-infuse-git" title="InFuse Reproducibility Stamp"><img src="https://www.replicabilitystamp.org/logo/Reproducibility-small.png" alt="Reproducibility Stamp" width="100" style="height:auto; vertical-align:middle; margin-left:12px;"></a>
 
 </div>
 </div>
